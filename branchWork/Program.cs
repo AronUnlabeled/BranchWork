@@ -6,7 +6,7 @@ namespace branchWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("new branchsssssss");
+            Console.WriteLine("merger");
         }
     }
 }
